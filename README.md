@@ -1,12 +1,12 @@
-# Note web application
+# Blog web application
 
-### This web application allows users to create, edit, delete notes
+### This web application allows users to create, edit, delete blog
 
 To run this web application locally you must follow the steps indicated below:
 
 1. Close this repository
 ```bash
-git clone [repository link]
+git clone [https://github.com/00010497/blog.git]
 ```
 
 2. Install the dependencies
@@ -25,4 +25,4 @@ node app
 - pug.js
 
 ### Web application dependencies on github
-[ link to github repo ]
+[ https://github.com/00010497/blog ]
